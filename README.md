@@ -24,7 +24,7 @@ El carrito de compras es una funcionalidad clave del eCommerce Weakside, permiti
 
 ## Acceso al proyecto 
 
-- https://joellzt.github.io/CV-Joel-Lorenzetti/
+- https://joellzt.github.io/Carrito-de-compras/
 
 ### Requisitos
 
