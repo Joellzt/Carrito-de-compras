@@ -22,7 +22,9 @@ El carrito de compras es una funcionalidad clave del eCommerce Weakside, permiti
 - *Visualizar carrito*: Mostrar el contenido del carrito, incluyendo el nombre, cantidad y precio de los productos.
 - *Cálculo total*: El total de la compra se actualiza automáticamente cada vez que se modifica el carrito.
 
-## Instalación
+## Acceso al proyecto 
+
+- https://joellzt.github.io/CV-Joel-Lorenzetti/
 
 ### Requisitos
 
