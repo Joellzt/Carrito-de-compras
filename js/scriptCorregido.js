@@ -3,7 +3,7 @@ let productosCargados = [];
 
 // Traer productos desde JSON
 async function traerProductos() {
-    const response = await fetch("./gorras.json");
+    const response = await fetch("../gorras.json");
     productosCargados = await response.json();
     mostrarProductos(productosCargados);
 }
