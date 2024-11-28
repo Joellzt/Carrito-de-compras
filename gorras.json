@@ -5,7 +5,7 @@
     "precio": 20,
     "destacado": false, 
     "filtro": "lifestyle",
-    "img": "../imgs/gorra_beige.jpg"
+    "img": "./imgs/gorra_beige.jpg"
   },
   { 
     "id": 2, 
@@ -13,7 +13,7 @@
     "precio": 17,
     "destacado": true, 
     "filtro": "lifestyle",
-    "img": "../imgs/gorra_roja.jpg"
+    "img": "./imgs/gorra_roja.jpg"
   },
   { 
     "id": 3, 
@@ -21,7 +21,7 @@
     "precio": 22,
     "destacado": true, 
     "filtro": "lifestyle",
-    "img": "imgs/gorra_blanca.jpg"
+    "img": "./imgs/gorra_blanca.jpg"
   },
   { 
     "id": 4, 
@@ -29,7 +29,7 @@
     "precio": 12,
     "destacado": true, 
     "filtro": "lifestyle",
-    "img": "../gorra_beige.jpg"
+    "img": "./imgs/gorra_beige.jpg"
   },
   { 
     "id": 5, 
@@ -37,7 +37,7 @@
     "precio": 20,
     "destacado": false, 
     "filtro": "lifestyle",
-    "img": "imgs/gorra_beige.jpg"
+    "img": "./imgs/gorra_beige.jpg"
   },
   { 
     "id": 6, 
