@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weakside Store</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="shortcut icon" href="../imgs/favicon.png" type="image/x-icon">
+</head>
+<body>
+    <header class="header">
+        <div class="menu">
+            <div class="logo">
+                <a href="#">
+                    <img src="../imgs/logo-weakside.svg" alt="logo weakside">
+                </a>
+            </div>
+            <nav class="navbar">
+                <ul>
+                    <li>
+                        <div>
+                            <div class="container-icon" onclick="toggleCarrito()">
+                                <img src="../imgs/carrito.svg" alt="Carrito de compras">
+                                <div class="count-products">
+                                    <span id="contador-productos">0</span>
+                                </div>
+                            </div>
+                                <div class="container-cart-products hidden-cart" id="carrito-contenedor">
+                                    <div class="cart-product">
+                                        <div class="info-cart-product">
+                                            <div onclick="modificarCantidad(-1)" class="icon-button">
+                                                <!-- Icono de - -->
+                                            </div>
+                                            <span class="cantidad-producto-carrito" id="cantidad-producto">1</span>
+                                            <div onclick="modificarCantidad(1)" class="icon-button">
+                                                <!-- Icono de + -->
+                                            </div>
+                                            <p class="titulo-producto-carrito">Gorra clasica</p>
+                                            <span class="precio-producto-carrito">$20</span>
+                                        </div>
+                                        <div class="icon-close" onclick="eliminarProducto()">
+                                            <!-- Icono de X -->
+                                        </div>
+                                    </div>
+                                    <div class="cart-total">
+                                        <h3>Total</h3>
+                                        <span class="total-pagar" id="total-pagar">$20</span>
+                                    </div>
+                                </div>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+            
+        </div>
+    </header>
+
+    <main class="weakside-store">
+        <section class="filter-sup">
+            <form action="">
+                <div>
+                    <input type="search" id="buscador" placeholder="Buscar productos">
+                </div>
+                <select id="filtro-precio">
+                    <option value="destacado">Destacados</option>
+                    <option value="mayor-menor">Mayor precio</option>
+                    <option value="menor-mayor">Menor precio</option>
+                </select>
+            </form>
+        </section>
+
+        <section class="products" id="contenedor-gorras">
+            <!-- Acá se cargarán los productos con JS -->
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-logo">
+                <img src="../imgs/logo-blanco.png" alt="Logo de weakside">
+            </div>
+            <div class="contact">
+                <h3>Contacto</h3>
+                <p>Email: weakside@gmail.com</p>
+            </div>
+            <div class="social-media">
+                <h3>Seguínos</h3>
+                <a href="#"><img src="../imgs/instagram-logo.png" alt="Instagram"></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/scriptCorregido.js"></script>
+</body>
+</html>

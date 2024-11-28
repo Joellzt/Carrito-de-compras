@@ -1,0 +1,51 @@
+[
+    { 
+    "id": 1, 
+    "nombre": "Gorro lifestyle",
+    "precio": 20,
+    "destacado": false, 
+    "filtro": "lifestyle",
+    "img": "../imgs/gorra_beige.jpg"
+  },
+  { 
+    "id": 2, 
+    "nombre": "Gorro lifestyle",
+    "precio": 17,
+    "destacado": true, 
+    "filtro": "lifestyle",
+    "img": "../imgs/gorra_roja.jpg"
+  },
+  { 
+    "id": 3, 
+    "nombre": "Gorro lifestyle",
+    "precio": 22,
+    "destacado": true, 
+    "filtro": "lifestyle",
+    "img": "../imgs/gorra_blanca.jpg"
+  },
+  { 
+    "id": 4, 
+    "nombre": "Gorra classic",
+    "precio": 12,
+    "destacado": true, 
+    "filtro": "lifestyle",
+    "img": "../imgs/gorra_beige.jpg"
+  },
+  { 
+    "id": 5, 
+    "nombre": "Gorro lifestyle",
+    "precio": 20,
+    "destacado": false, 
+    "filtro": "lifestyle",
+    "img": "../imgs/gorra_beige.jpg"
+  },
+  { 
+    "id": 6, 
+    "nombre": "Gorro lifestyle",
+    "precio": 25,
+    "destacado": true, 
+    "filtro": "lifestyle",
+    "img": "../imgs/gorra_beige.jpg"
+  }
+
+]
