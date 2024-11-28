@@ -21,7 +21,7 @@
     "precio": 22,
     "destacado": true, 
     "filtro": "lifestyle",
-    "img": "../imgs/gorra_blanca.jpg"
+    "img": "imgs/gorra_blanca.jpg"
   },
   { 
     "id": 4, 
@@ -37,7 +37,7 @@
     "precio": 20,
     "destacado": false, 
     "filtro": "lifestyle",
-    "img": "./imgs/gorra_beige.jpg"
+    "img": "imgs/gorra_beige.jpg"
   },
   { 
     "id": 6, 
