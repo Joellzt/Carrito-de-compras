@@ -1,10 +1,10 @@
 ## Carrito de Compras - eCommerce Weakside
 
-Este proyecto es parte de la implementación del carrito de compras para el sitio web de *Weakside*, una marca de ropa de estilo streetwear con un enfoque en valores cristianos. El carrito permite a los usuarios agregar productos, visualizar su contenido y proceder con el pago de manera sencilla.
+Este proyecto es parte de la implementación del carrito de compras para el sitio web de *Weakside*, El carrito permite a los usuarios agregar productos, visualizar su contenido y proceder con el pago de manera sencilla.
 
 ## Descripción
 
-El carrito de compras es una funcionalidad clave del eCommerce Weakside, permitiendo a los usuarios:
+Carrito de compras realizado para una final de materia, para un proyecto personal mio, este carrito fue diseñado para cumplir con las siguientes características:
 
 - Ver los productos seleccionados.
 - Filtrar productos por precio o destacar los más relevantes.
